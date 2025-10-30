@@ -1,0 +1,19 @@
+ECOMARKET PLANIFICACION DE SPRINT 1
+
+OBJETIVO DEL SPRINT: Implementar funciones básicas de visualización de productos para compradores.
+
+HISTORIAS SELECCIONADAS:
+- Filtrar productos por categoría
+- Registro de productos
+
+TAREAS ESPECIFICAS:
+- Diseñar interfaz de lista de categorías
+- Crear estructura de las categorías con HTML
+- Implementar estilos de las categorías con CSS
+- Desarrollar funcionalidad para filtrar productos con JavaScript
+- Diseñar interfaz de registro de productos
+- Crear estructura del formulario de registro de productos con HTML
+- Implementar estilos del formulario con CSS
+- Desarrollar funcionalidad para el formulario de registro de productos con JavaScript
+
+DURACIÓN ESTIMADA: 20 días

@@ -1,0 +1,33 @@
+ECOMARKET PRODUCT BACKLOG
+
+1.
+
+HISTORIA: Como comprador, quiero agregar productos al carro de compras, para poder realizar varios pedidos a la vez.
+
+CRITERIOS:
+-Boton "Agregar al carrito" en cada producto
+-Mostrar todos los productos agregados al carro
+-Permitir modificar el carrito
+
+PRIORIDAD: Alta
+
+
+2.
+
+HISTORIA: Como comprador, quiero poder filtrar productos por descuento, para poder encontrar productos que se encuentren en mis capacidades monetarias
+
+CRITERIOS:
+- Mostrar lista de los descuentos
+- Filtrar productos que tengan el descuento seleccionado
+- Mostrar contador de productos filtrados
+
+PRIORIDAD: Media
+
+3.
+
+HISTORIA: Como productor, quiero poder registrar mis productos en la pagina, para vender mis productos.
+
+CRITERIOS:
+- Formulario para registrar producto
+
+PRIORIDAD: Alta
