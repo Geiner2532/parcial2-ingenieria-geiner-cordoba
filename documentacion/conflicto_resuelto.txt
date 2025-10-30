@@ -1,0 +1,3 @@
+PROCESO DE SOLUCION:
+El error ocurrio ya que se modifico lo mismo en ambas ramas, por lo que habian tres opciones, permitir la de main, permitir la del hotfix-actualizacion o combinar ambas, en mi caso esto fue lo que hice.
+Se modifico en ambas ramas el titulo para que fuera "Lista de Productos Frescos Actualizado" y con esto se pudo realizar la fusion.
