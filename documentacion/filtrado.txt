@@ -1,0 +1,6 @@
+PROPUESTA DE FILTRADO POR CATEGORÍA
+
+1. Agregar botones de categorías en HTML
+2. Implementar función JavaScript filtrarProductos(categoria)
+3. Agregar estilos para estados activos/inactivos
+4. Manejar eventos click en categorías
